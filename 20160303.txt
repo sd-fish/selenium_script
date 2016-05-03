@@ -1,0 +1,6 @@
+www.sina.com,8942
+www.sohu.com,38
+www.vip.com,18
+www.taobao.com,12
+www.360.com,10000
+www.jd.com,199
